@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a742887b-c8bc-40fd-bea2-2e405727061b/deploy-status)](https://app.netlify.com/projects/vitrinehub/deploys)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
